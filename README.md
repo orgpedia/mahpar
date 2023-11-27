@@ -18,9 +18,9 @@ The data is currently not relased through PyPI once advanced informaion is extra
 
 ## Data Details
 - **First Order:** [201710031642378615.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201710031642378615.pdf) (12 October 2017)
-- **Last Order:** [202309121658524215.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121658524215.pdf) (12 September 2023)
-- **Last Crawl Date:** 16-Sep-2023
-- **Total Orders:** 104
+- **Last Order:** [202311221247565415.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221247565415.pdf) (22 November 2023)
+- **Last Crawl Date:** 26-Nov-2023
+- **Total Orders:** 105
 - **Translated Orders:** 104
 
 ## Data Processing
